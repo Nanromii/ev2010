@@ -79,7 +79,8 @@ export default function Page() {
             Chúc Mừng Ngày Phụ Nữ Việt Nam
           </h1>
           <p className="text-xl md:text-2xl text-gray-800 font-medium text-pretty max-w-2xl mx-auto leading-relaxed drop-shadow-sm">
-            Chúc bạn luôn xinh đẹp, tươi trẻ và tràn đầy hạnh phúc!
+            Chúc bạn luôn xinh đẹp, vui vẻ và làm gì cũng suôn sẻ u3u
+            Học giỏi không phải chúc vì các bạn giỏi vcl rồi :c
           </p>
         </div>
 
@@ -126,7 +127,7 @@ export default function Page() {
               <p className="text-5xl font-bold bg-gradient-to-r from-purple-500 to-pink-500 bg-clip-text text-transparent">
                 Hehe
               </p>
-              <p className="text-gray-600 text-lg">Cảm ơn bạn đã chọn đúng!</p>
+              <p className="text-gray-600 text-lg">Cảm ơn bạn đã chọn đúng, nếu bạn quên thì tôi họ Vũ nhé=)</p>
             </div>
           </div>
         </div>
